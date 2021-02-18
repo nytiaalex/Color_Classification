@@ -1,7 +1,7 @@
 # Color_Classification
 
 1. Our project is run inside a conda environment,
-  module inside the environment:
+Module inside the environment:
 - python=3.7.9*
 - bz2file==0.98
 - cython==0.29.*
@@ -36,3 +36,5 @@
 - The third part is for creating the training model
 - The forth part is for testing the trained model
 - The fifth part is for different training model (in progress)
+
+4. PREDICT folder contains different images for testing purposes.
