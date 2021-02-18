@@ -29,7 +29,7 @@ Module inside the environment:
 - There are 640 images inside each class folder. (exeption Green folder)
 
 
-3. COLOR_CLASS_v2.ipynb is the complete code for the project
+3. COLOR_CLASS.ipynb is the complete code for the project
 - The code is writen using jupyter notebook
 - The first part of the code is for preparing the data
 - The second part is for creating the training data
