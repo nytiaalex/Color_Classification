@@ -23,16 +23,16 @@
 
 
 2. The DATASET.zip contain the images sample for training and validation.
-  There are 5 folders inside DATASET corresponding to the color classes.
-  The color classes are White, Red, Blue, Green, Black.
-  The images are put into each folder in function of their color.
-  There are 640 images inside each class folder. (exeption Green folder)
+- There are 5 folders inside DATASET corresponding to the color classes.
+- The color classes are White, Red, Blue, Green, Black.
+- The images are put into each folder in function of their color.
+- There are 640 images inside each class folder. (exeption Green folder)
 
 
 3. COLOR_CLASS_v2.ipynb is the complete code for the project
-  The code is writen using jupyter notebook
-  The first part of the code is for preparing the data
-  The second part is for creating the training data
-  The third part is for creating the training model
-  The forth part is for testing the trained model
-  the fifth part is for different training model (in progress)
+- The code is writen using jupyter notebook
+- The first part of the code is for preparing the data
+- The second part is for creating the training data
+- The third part is for creating the training model
+- The forth part is for testing the trained model
+- The fifth part is for different training model (in progress)
